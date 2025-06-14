@@ -1,0 +1,9 @@
+# Ignore class files and IDE-specific files
+*.class
+*.log
+*.iml
+.idea/
+target/
+bin/
+out/
+.DS_Store
